@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou o Robert Dias Pereira
+# 👋 Olá! Eu sou o Robert Dias Pereira - Floripa/SC
 
-🎯 Desenvolvedor com foco em automações e integração de sistemas  
+🎯 Foco em automações e integração de sistemas  
 💡 Atualmente estudando **N8N** e explorando automações com **Inteligência Artificial**  
 🚀 Entusiasta de soluções criativas e eficientes para facilitar tarefas e processos  
 🤝 Aberto para colaborar em **novos projetos e parcerias**
